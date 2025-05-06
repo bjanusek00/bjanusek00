@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 My name is Benjamin Gregory Janusek
 
-# My Operating Manual
+## My Operating Manual
 
 Below are some of my core thoughts on creating products. This document will change over time as I encounter new situations and come across new experiences.
 
-## Balance
+### Balance
 
 > "Everything in moderation, including moderation" ~ Oscar Wilde
 
@@ -35,25 +35,25 @@ Most problems that arise within a team or product can be solved through some rea
 
 It's worth noting that this is also true for work/life balance. Sometimes life gets in the way of work and sometimes work gets in the way of life. Occasionally, extra hours are needed to get a large release out the door, but those times should be the exception not the rule.
 
-## Raw Honesty
+### Raw Honesty
 
 We're all adults. Both giving and receiving constructive feedback with raw honesty is crucial to having a mutual understanding and working towards working better together. Egos should be left at the door.
 
-# Coding Philosophy
+## Coding Philosophy
 
-## Stable and boring is better than flashy and new
+### Stable and boring is better than flashy and new
 
 I'll almost always opt for tried and tested components of software over something that may be new and flashy. Most problems (scalability related, bugs, etc) that would come up with pieces of software that have been around longer will most likely have already been solved by someone, somewhere with useful information readily available online.
 
-## Use the right tool for the job
+### Use the right tool for the job
 
 This sort of goes hand in hand with the previous point. Using a new NoSQL technology might sound exciting and fun, but I'd rather use a relational database if that's all that's needed to solve a particular problem.
 
-##Keep it simple, stupid (the [KISS Principle](https://en.wikipedia.org/wiki/KISS_principle))
+### Keep it simple, stupid (the [KISS Principle](https://en.wikipedia.org/wiki/KISS_principle))
 
 Simple solutions to problem makes everything easier and less stressful. Onboarding new engineers won't require learning large, overly complex systems. Your product will be more stable with less downtime and late night on-call situations. This applies to everything from how an infrastructure is configured to how code is organized.
 
-# Other Things I Enjoy
+### Other Things I Enjoy
 - 🚲💨 Road Bikes, Follow Me on [Strava](https://www.strava.com/athletes/bjanusek)! 
 - [Zen and the Art of Motorcycle Maintenance](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance)
 - [The Creative Act: A Way of Being](https://www.amazon.com/Creative-Act-Way-Being/dp/0593652886)
