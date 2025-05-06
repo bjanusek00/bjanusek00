@@ -53,7 +53,7 @@ This sort of goes hand in hand with the previous point. Using a new NoSQL techno
 
 Simple solutions to problem makes everything easier and less stressful. Onboarding new engineers won't require learning large, overly complex systems. Your product will be more stable with less downtime and late night on-call situations. This applies to everything from how an infrastructure is configured to how code is organized.
 
-### Other Things I Enjoy
+## Other Things I Enjoy
 - 🚲💨 Road Bikes, Follow Me on [Strava](https://www.strava.com/athletes/bjanusek)! 
 - [Zen and the Art of Motorcycle Maintenance](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance)
 - [The Creative Act: A Way of Being](https://www.amazon.com/Creative-Act-Way-Being/dp/0593652886)
