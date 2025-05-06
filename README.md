@@ -51,7 +51,7 @@ This sort of goes hand in hand with the previous point. Using a new NoSQL techno
 
 ### Keep it simple, stupid (the [KISS Principle](https://en.wikipedia.org/wiki/KISS_principle))
 
-Simple solutions to problems makes everything easier and less stressful. Onboarding new engineers won't require learning large, overly complex systems. Your product will be more stable with less downtime and late night on-call situations. This applies to everything from how an infrastructure is configured to how code is organized.
+Simple solutions to problems makes everything easier and less stressful. Onboarding new engineers won't require learning large, overly complex systems. Your product will be more stable. This applies to everything from how an infrastructure is configured to how code is organized.
 
 ## Other Things I Enjoy
 - 🚲💨 Road Bikes, Follow Me on [Strava](https://www.strava.com/athletes/bjanusek)! 
