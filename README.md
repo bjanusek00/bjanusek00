@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋
 
-My name is Benjamin Gregory Janusek
+My name is Benjamin G. Janusek
 
 ## My Operating Manual
 
